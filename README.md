@@ -1,6 +1,20 @@
 UbiAreasdeRiscos
 ================
 
+HISTÓRIA
+O jogo não possui personagens ou história. O contexto do jogo é simplesmente os jogadores interagindo entre si no mapa da cidade.
+
+ESTÉTICA
+O jogo propõe uma estética simples, sem elementos muito complexos. Durante o jogo, o jogador vê o mapa da cidade, retas, pontos e circunferências que variam de cor.
+
+TECNOLOGIA
+- Áreas de Riscos é um jogo ubíquo baseado no middleware uOS
+- Os dispositivos utilizados para o jogo deverão possuir alguma forma de localização espacial, como um GPS. 
+- O jogo também utilizará um mapa, cujo serviço ainda será definido
+- Será necessário um servidor central que estabelecerá a comunicação e as atualizações e necessárias entre os jogadores
+- O jogo não possui um smart space específico, pois ele pode ser jogado em qualquer cidade.
+
+MECÂNICA
 Áreas de riscos
 
 Áreas de riscos são dois jogos independentes jogados em celular. Eles podem ser visualizados sobrepostos podendo ser jogados ao mesmo tempo. Os jogos se baseiam na localização e trajetória dos jogadores na cidade. De modo que o jogador utiliza o GPS do celular para demarcar semirretas ou pontos.
