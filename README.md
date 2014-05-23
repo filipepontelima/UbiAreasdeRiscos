@@ -3,11 +3,11 @@ UbiAreasdeRiscos
 
 HISTÓRIA
 
-O jogo não possui personagens ou história. O contexto do jogo é simplesmente os jogadores interagindo entre si no mapa da cidade.
+A proposta do jogo é explorar a relação das pessoas com a cidade, tornando a cidade o próprio mapa do jogo. O jogo cria um novo significado ao deslocamento da pessoa pela cidade assim como a localização da pessoa, valorizando aspectos como altitude e distância.
 
 ESTÉTICA
 
-O jogo propõe uma estética simples, sem elementos muito complexos. Durante o jogo, o jogador vê o mapa da cidade, retas, pontos e circunferências que variam de cor.
+O jogo propõe uma estética simples, sem elementos muito complexos. Durante o jogo, o jogador vê o mapa da cidade, retas, pontos e circunferências que variam de cor e tamanho.
 
 TECNOLOGIA
 
