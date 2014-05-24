@@ -12,7 +12,9 @@ O jogo propõe uma estética simples, sem elementos muito complexos. Durante o j
 TECNOLOGIA
 
 - Áreas de Riscos é um jogo ubíquo baseado no middleware uOS
-- Os dispositivos utilizados para o jogo deverão possuir alguma forma de localização espacial, como um GPS. 
+- Os dispositivos utilizados para o jogo deverão possuir alguma forma de localização espacial, como um GPS
+- Um barômetro para determinar altitude
+- Poderá se utilizar de uma lista de contatos
 - O jogo também utilizará um mapa, cujo serviço ainda será definido
 - Será necessário um servidor central que estabelecerá a comunicação e as atualizações e necessárias entre os jogadores
 - O jogo não possui um smart space específico, pois ele pode ser jogado em qualquer cidade.
