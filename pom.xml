@@ -40,10 +40,10 @@
 			<version>2.3.3</version>
 			<scope>provided</scope>
 		</dependency>
-
+		
 		<dependency>
 			<groupId>org.unbiquitous</groupId>
-			<artifactId>uImpala_dalvik</artifactId>
+			<artifactId>http-plugin</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
 
